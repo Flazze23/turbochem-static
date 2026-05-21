@@ -1,0 +1,1 @@
+import{U as s,P as a,r,t as o,s as u}from"./B63TFGtm.js";function i(e){const t=e||a();return t?.ssrContext?.head||t?.runWithContext(()=>{if(r())return o(u)})}function x(e,t={}){const n=i(t.nuxt);if(n)return s(e,{head:n,...t})}export{x as u};

@@ -1,0 +1,1 @@
+const a=t=>new Intl.NumberFormat("uk-UA",{style:"currency",currency:"UAH",maximumFractionDigits:0}).format(t),r=t=>new Intl.DateTimeFormat("uk-UA",{day:"2-digit",month:"long",year:"numeric"}).format(new Date(t));export{a,r as f};
